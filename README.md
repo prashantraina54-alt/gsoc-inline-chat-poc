@@ -9,4 +9,12 @@ Proof of Concept for an Inline Contextual AI Chat feature using Node.js and the 
 3. Run `node server.js` and open `http://localhost:8000`
 
 
+https://github.com/user-attachments/assets/1c538a38-805b-40a8-9972-e6ae25a537e8
+
+
+
+
+
+
+
 
